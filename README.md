@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SassenachAn
+- 👀 I’m interested in human movement
+- 🌱 I’m currently in the master Human Movement Sciences from the University of Groningen
+- 💞️ If you know things about GBTM, hit me up (preferably in pyhton)
+- 📫 How to reach me -> a.hancox@student.rug.nl
